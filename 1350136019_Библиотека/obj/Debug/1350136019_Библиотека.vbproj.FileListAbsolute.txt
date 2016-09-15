@@ -1,0 +1,20 @@
+c:\users\bloodline\documents\visual studio 2013\Projects\1350136019_Библиотека\1350136019_Библиотека\bin\Debug\1350136019_Библиотека.exe.config
+c:\users\bloodline\documents\visual studio 2013\Projects\1350136019_Библиотека\1350136019_Библиотека\bin\Debug\1350136019_Библиотека.exe
+c:\users\bloodline\documents\visual studio 2013\Projects\1350136019_Библиотека\1350136019_Библиотека\bin\Debug\1350136019_Библиотека.pdb
+c:\users\bloodline\documents\visual studio 2013\Projects\1350136019_Библиотека\1350136019_Библиотека\bin\Debug\1350136019_Библиотека.xml
+c:\users\bloodline\documents\visual studio 2013\Projects\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\_1350136019_Библиотека.Resources.resources
+c:\users\bloodline\documents\visual studio 2013\Projects\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\1350136019_Библиотека.vbproj.GenerateResource.Cache
+c:\users\bloodline\documents\visual studio 2013\Projects\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\1350136019_Библиотека.exe
+c:\users\bloodline\documents\visual studio 2013\Projects\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\1350136019_Библиотека.xml
+c:\users\bloodline\documents\visual studio 2013\Projects\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\1350136019_Библиотека.pdb
+c:\users\bloodline\documents\visual studio 2013\Projects\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\_1350136019_Библиотека.Библиотека.resources
+D:\testing\1350136019_Библиотека\1350136019_Библиотека\bin\Debug\1350136019_Библиотека.exe.config
+D:\testing\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\1350136019_Библиотека.exe
+D:\testing\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\1350136019_Библиотека.xml
+D:\testing\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\1350136019_Библиотека.pdb
+D:\testing\1350136019_Библиотека\1350136019_Библиотека\bin\Debug\1350136019_Библиотека.exe
+D:\testing\1350136019_Библиотека\1350136019_Библиотека\bin\Debug\1350136019_Библиотека.pdb
+D:\testing\1350136019_Библиотека\1350136019_Библиотека\bin\Debug\1350136019_Библиотека.xml
+D:\testing\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\_1350136019_Библиотека.Библиотека.resources
+D:\testing\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\_1350136019_Библиотека.Resources.resources
+D:\testing\1350136019_Библиотека\1350136019_Библиотека\obj\Debug\1350136019_Библиотека.vbproj.GenerateResource.Cache

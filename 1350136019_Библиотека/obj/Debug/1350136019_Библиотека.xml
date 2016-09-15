@@ -1,0 +1,188 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+1350136019_Библиотека
+</name>
+</assembly>
+<members>
+<member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.КнигиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.ЧитателиDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.Детска_ЛитератураDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.Картон_читателDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.КомедияDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.РоманDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.ТрилърDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.ФантастикаDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.КнигиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.ЧитателиRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.Детска_ЛитератураRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.Картон_читателRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.КомедияRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.РоманRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.ТрилърRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.ФантастикаRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.КнигиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.ЧитателиRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.Детска_ЛитератураRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.Картон_читателRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.КомедияRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.РоманRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.ТрилърRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet.ФантастикаRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.КнигиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.ЧитателиTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.Детска_ЛитератураTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.Картон_читателTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.КомедияTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.РоманTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.ТрилърTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.ФантастикаTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(_1350136019_Библиотека.Библиотека_КурсоваDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(_1350136019_Библиотека.Библиотека_КурсоваDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(_1350136019_Библиотека.Библиотека_КурсоваDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.TableAdapterManager.UpdateAll(_1350136019_Библиотека.Библиотека_КурсоваDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:_1350136019_Библиотека.Библиотека_КурсоваDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:_1350136019_Библиотека.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:_1350136019_Библиотека.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:_1350136019_Библиотека.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
